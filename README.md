@@ -1,2 +1,0 @@
-# wearesports
-WeAreSports CLI
